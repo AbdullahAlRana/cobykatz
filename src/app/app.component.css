@@ -1,0 +1,89 @@
+.c-container {
+    margin-right: 80px;
+    margin-left: 13%;
+  }
+
+  body {
+    background: #010101;
+    color: white;
+    font-family: sans-serif;
+  }
+
+  .c-homepage {
+    background-image: url('../assets/bg.png');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .box {
+    -webkit-backdrop-filter: blur(4px) brightness(60%);
+    backdrop-filter: blur(4px) brightness(60%);
+    min-width: 1500px;
+    min-height: 220px;
+    padding: 20px 40px;
+    position: absolute;
+    top: 20%;
+  }
+
+  .inner-text {
+    margin-left: 20%;
+    padding: 40px 0 10px 0;
+  }
+
+  .banner-img {
+    height: 520px;
+    margin: 120px 0 0 0;
+  }
+
+  .banner-text {
+    margin-top: 10%;
+  }
+
+  .box-btm {
+    width: 148px;
+    height: 58px;
+    border: 1px solid #FFFFFF;
+    text-align: center;
+  }
+
+  .box-text {
+    position: relative;
+    top: 26%;
+  }
+
+  .box-form {
+    width: 420px;
+    height: 50px;
+    border: 1px solid #FFFFFF;
+  }
+
+  .c-sign {
+    width: 169px;
+    height: 94px;
+  }
+
+  .social-icon {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  .page-links{
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  .social-links {
+    margin-top: 40%;
+    margin-left: 10%;
+  }
+
+  .copyright-banner {
+    margin-top: 5%;
+    margin-left: 2%;
+  }
