@@ -1,0 +1,113 @@
+.wide-page {
+    width: 270%;
+    min-height: 820px;
+}
+
+.stairism-section {
+    background-image: url('../../assets/spiral_stairs.png');
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+}
+
+.motif-section {
+    background-image: url('../../assets/stair_motif.png');
+    background-size: 51%;
+    background-repeat: no-repeat;
+    background-position: 50% -44%;
+}
+
+.updown-section {
+    background-image: url('../../assets/Dollar_bg.png');
+    background-size: 562px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.artinbloom-section {
+    background-image: url('../../assets/rose-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.section-title {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 117.4px;
+}
+
+.odd-section {
+    margin-top: 18%;
+}
+
+.even-section {
+    margin-top: 5%;
+}
+
+.stairism-section-text {
+    margin-left: 20%;
+}
+
+.motif-section-text {
+    margin-left: 15%;
+}
+
+.desc-section {
+    font-size: 16px;
+    width: 570px;
+    font-family: 'Space Grotesk'
+}
+
+.learn-more-button {
+    color: white;
+    border-color: white;
+}
+
+.side-bar {
+    display: flex;
+    height: 100%;
+    position: absolute;
+}
+
+.vertical-line {
+    width: 1px;
+    opacity: 1;
+    margin-left: 30%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.page-links {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.78px;
+}
+
+.copyright-banner {
+    margin-top: 20%;
+    margin-left: 25%;
+    width: 66%;
+}
+
+.c-sign {
+    width: 60%;
+}
+
+.social-links {
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-bottom: 12px;
+}
+
