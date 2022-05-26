@@ -1,0 +1,95 @@
+.coby-container {
+    background-color: black !important;
+    background-image: url('../../assets/timeline/timeline-bg.svg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.title-year {
+    background: black;
+}
+
+.coby-logo {
+    position: absolute;
+    width: 145px;
+    left: 44%;
+    top: 2%;
+}
+
+.coby-year {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 144px;
+}
+
+.coby-role {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    opacity: 0.8;
+}
+
+.collection {
+    margin-top: 140px;
+}
+
+.coll-pic-frame {
+    position: relative;
+  top: 0;
+  left: 0;
+}
+
+.coll-img {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    height: 244px;
+    z-index: 0;
+}
+
+.coll-img-big {
+    position: absolute;
+    top: 45px;
+    left: 286px;
+    z-index: 0;
+}
+
+.coll-frame {
+    width: 322px;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.coll-frame-big {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.col-headline {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 72px;
+    letter-spacing: 0.04em;
+}
+
+.common-button {
+    width: 148px;
+    height: 58px;
+    border-radius: 0px;
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+
+    text-align: center;
+}

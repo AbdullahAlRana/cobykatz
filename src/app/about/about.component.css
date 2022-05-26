@@ -1,6 +1,8 @@
 .wide-page {
     width: 270%;
     min-height: 820px;
+    background-color: black;
+    color: #FFFFFF;
 }
 
 .stairism-section {

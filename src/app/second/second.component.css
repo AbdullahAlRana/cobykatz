@@ -1,7 +1,7 @@
-body {
+.coby-home {
     background-color: #010101 !important;
     color: white !important;
-    font-family: sans-serif !important;
+    font-family: sans-serif;
 }
 
 .c-container {
@@ -37,6 +37,7 @@ body {
     margin: 120px auto 0 auto;
     display: block;
     box-shadow: 0px 0px 20px 15px black;
+    position: relative;
 }
 
 .banner-text {
@@ -129,7 +130,7 @@ ul {
     height: 844px;
     left: 66.92px;
     top: 893px;
-    z-index: -1;
+    z-index: 0;
 }
 
 .background-shape2 {
@@ -138,7 +139,7 @@ ul {
     height: 932.31px;
     left: 614px;
     top: 1664px;
-    z-index: -1;
+    z-index: 0;
 }
 
 .background-shape3 {
@@ -147,5 +148,5 @@ ul {
     height: 932.31px;
     left: 40px;
     top: 2490px;
-    z-index: -1;
+    z-index: 0;
 }
