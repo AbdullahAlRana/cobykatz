@@ -9,6 +9,12 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { BehindTheCanvasComponent } from './behind-the-canvas/behind-the-canvas.component';
 import { TimelineComponent } from './timeline/timeline.component';
+import { TimelineOverviewComponent } from './timeline-overview/timeline-overview.component';
+import { CollectionOverviewComponent } from './collection-overview/collection-overview.component';
+import { CollectionSelectionComponent } from './collection-selection/collection-selection.component';
+import { ExhibitionsComponent } from './exhibitions/exhibitions.component';
+import { CollaborationsComponent } from './collaborations/collaborations.component';
+import { CanvasComponent } from './canvas/canvas.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +23,13 @@ import { TimelineComponent } from './timeline/timeline.component';
     HomeComponent,
     AboutComponent,
     BehindTheCanvasComponent,
-    TimelineComponent
+    TimelineComponent,
+    TimelineOverviewComponent,
+    CollectionOverviewComponent,
+    CollectionSelectionComponent,
+    ExhibitionsComponent,
+    CollaborationsComponent,
+    CanvasComponent
   ],
   imports: [
     BrowserModule,

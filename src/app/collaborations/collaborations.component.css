@@ -1,0 +1,76 @@
+.whole-page {
+}
+
+.bg1 {}
+
+.bg2 {
+    position: relative;
+    top: -95px;
+}
+
+.bg3 {
+    position: relative;
+    top: -189px;
+}
+
+/* /////////////////////////////// Footer start ////////////////////////////////// */
+
+.footer {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+}
+
+.page-links {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright-banner {
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.c-sign {
+    width: 169px;
+    height: 94px;
+}
+
+.social-links {
+    margin-top: 40%;
+    margin-left: 29%;
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+/* /////////////////////////////// Footer end ////////////////////////////////// */
+
+.heading {
+    position: absolute;
+    width: 649px;
+    height: 85px;
+    left: 61px;
+    top: 443px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 85px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.logo {
+    position: absolute;
+width: 279px;
+height: 104px;
+left: 282px;
+top: 329px;
+}

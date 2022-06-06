@@ -1,0 +1,167 @@
+.coby-container {
+    background-color: black !important;
+    /* background-image: url('../../assets/timeline/timeline-bg.svg');
+    background-repeat: repeat-x;
+    background-position: bottom left; */
+    min-height: 5000px;
+}
+
+.title-year {
+    background: black;
+}
+
+.coby-logo {
+    position: absolute;
+    width: 145px;
+    left: 44%;
+    top: 2%;
+}
+
+.page-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 144px;
+}
+
+.stair-section {
+    position: relative;
+    top: -6%;
+    left: -38%;
+}
+
+.bg1 {
+    left: 400px;
+}
+
+.bg2 {
+    left: 224px;
+    top: 169px;
+}
+
+.bg3 {
+    top: 338px;
+    left: 651px;
+}
+
+.bg4 {
+    top: 506px;
+    left: 324px;
+}
+
+
+.bg5 {
+    top: 756px;
+    left: 403px;
+}
+
+.bg6 {
+    top: 925px;
+    left: 330px;
+}
+
+.bg7 {
+    top: 1176px;
+    left: 646px;
+}
+
+.bg8 {
+    top: 1345px;
+    left: 334px;
+}
+
+.bg9 {
+    top: 1598px;
+    left: 404px;
+}
+
+.bg10 {
+    top: 1767px;
+    left: 228px;
+}
+
+.bg11 {
+    top: 1935px;
+    left: 655px;
+}
+
+.bg12 {
+    top: 2104px;
+    left: 328px;
+}
+
+.bg13 {
+    top: 2354px;
+    left: 408px;
+}
+
+.bg14 {
+    top: 2523px;
+    left: 335px;
+}
+
+.bg15 {
+    top: 2773px;
+    left: 649px;
+}
+
+.bg16 {
+    top: 2942px;
+    left: 339px;
+}
+
+.bg17 {
+    top: 3195px;
+    left: 409px;
+}
+
+.bg18 {
+    top: 3364px;
+    left: -322px;
+}
+
+.common-button {
+    width: 148px;
+    height: 58px;
+    border-radius: 0px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    opacity: 0.5;
+}
+
+.year {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 150%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.role {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 150%;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.left {
+    margin: 40px 0px 700px 0;
+}
+
+.right {
+    margin: 500px 0 777px 0;
+}

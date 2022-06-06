@@ -1,0 +1,76 @@
+.coby-container {
+    background-color: black !important;
+}
+
+.coby-logo {
+    position: absolute;
+    width: 145px;
+    left: 44%;
+    top: 2%;
+}
+
+.coll-pic-frame {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.coll-img-big {
+    position: absolute;
+    top: 3%;
+    width: 505.92px;
+    height: 520.69px;
+    z-index: 0;
+}
+
+.coll-frame-big {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 608px;
+    height: 589px;
+    z-index: 1;
+}
+
+.heading {
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+letter-spacing: 0.04em;
+}
+
+.tag {
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #000000;
+background-color: white;
+}
+
+.para {
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+}
+
+.common-button {
+    width: 148px;
+    height: 58px;
+    border-radius: 0px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+}
+
+.main-show {
+    margin-top: 78px;
+}
