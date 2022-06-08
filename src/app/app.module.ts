@@ -15,6 +15,7 @@ import { CollectionSelectionComponent } from './collection-selection/collection-
 import { ExhibitionsComponent } from './exhibitions/exhibitions.component';
 import { CollaborationsComponent } from './collaborations/collaborations.component';
 import { CanvasComponent } from './canvas/canvas.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { CanvasComponent } from './canvas/canvas.component';
     CollectionSelectionComponent,
     ExhibitionsComponent,
     CollaborationsComponent,
-    CanvasComponent
+    CanvasComponent,
+    GalleryComponent
   ],
   imports: [
     BrowserModule,

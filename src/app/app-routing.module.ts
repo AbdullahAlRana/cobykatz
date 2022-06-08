@@ -11,18 +11,23 @@ import { CollectionSelectionComponent } from './collection-selection/collection-
 import { ExhibitionsComponent } from './exhibitions/exhibitions.component';
 import { CollaborationsComponent } from './collaborations/collaborations.component';
 import { CanvasComponent } from './canvas/canvas.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'Gallery',
+    component: GalleryComponent
+  },
+  {
+    path: 'Sculptures',
     component: HomeComponent
   },
   {
-    path: 'second',
+    path: 'Nfts',
     component: SecondComponent
   },
   {
-    path: 'about',
+    path: 'Stairism',
     component: AboutComponent
   },
   {
@@ -42,7 +47,7 @@ const routes: Routes = [
     component: CollectionOverviewComponent
   },
   {
-    path: 'CellectionSelection',
+    path: '',
     component: CollectionSelectionComponent
   },
   {

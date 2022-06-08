@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'cobykatz';
+  public className = "white";
+
+  public clickEvent(a: any){
+    this.className = a;
+  }
 }

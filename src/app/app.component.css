@@ -5,3 +5,58 @@ li {
     text-decoration: none;
 
 }
+
+.social-icons {
+    max-height: 65px;
+    max-width: 65px;
+}
+
+.offcanvas-start {
+    max-width: 230px !important;
+}
+
+.sidebar-mini-stair {
+
+}
+
+.dropdown-divider {
+    margin: 0 0;
+    max-width: 70px;
+    opacity: 0.8;
+}
+
+.coby-nav-link {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: black !important;
+}
+
+.coby-nav-links-group {
+    margin-top: 13%;
+}
+
+.sidebar-footer {
+    position: absolute;
+    bottom: 36px;
+}
+
+.navbar-toggle-button {
+    border: 0;
+}
+
+.navbar-toggler-icon {
+    background-image: url('../assets/Icons/MenuIcon-black.svg');
+    width: 40px;
+    height: 45px;
+}
+
+.white {
+    background-image: url('../assets/Icons/menu-icon-white.svg') !important;
+}
+
+.black {
+    background-image: url('../assets/Icons/MenuIcon-black.svg') !important;
+}

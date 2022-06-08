@@ -113,3 +113,7 @@ ul {
     margin-bottom: 12px;
 }
 
+.navbar-toggle-icon {
+    display: none;
+}
+

@@ -74,3 +74,11 @@ line-height: 150%;
 .main-show {
     margin-top: 78px;
 }
+
+.navbar-toggler-icon {
+    background: white !important;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: 0 !important;
+}
